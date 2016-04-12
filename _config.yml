@@ -1,4 +1,4 @@
-name: SeriousSound
+name: Serious Sound
 favicon: null
 layout_spectrum: 0.3902
 typography_spectrum: 0.11945
@@ -22,8 +22,8 @@ color:
     - '#b20305'
     - '#e3e5e6'
     - '#ca3e42'
-  brandStrength: 0.8125
+  brandStrength: 0.5
   lightness: 0.125
   saturation: 0
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
