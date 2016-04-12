@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SeriousSound]]></title>
-        <description><![CDATA[SeriousSound]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Serious Sound Ent.]]></title>
+        <description><![CDATA[Serious Sound Ent.]]></description>
+        <link>https://thegrid.ai/serioussound/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 06:48:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 07:16:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/serioussound/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6648cd12-b111-4336-a0e8-7d2d7010d3ad.png">]]></description>
-            <link>undefined6e22557a-630e-4aee-bf2d-e178337ed139/index.html</link>
+            <link>https://thegrid.ai/serioussound/6e22557a-630e-4aee-bf2d-e178337ed139/index.html</link>
             <guid isPermaLink="false">6e22557a-630e-4aee-bf2d-e178337ed139</guid>
-            <pubDate>Tue, 12 Apr 2016 06:48:42 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2016 07:16:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
