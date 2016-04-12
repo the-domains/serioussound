@@ -1,7 +1,7 @@
 name: SeriousSound
 favicon: null
-layout_spectrum: 0.8274218083824962
-typography_spectrum: 0.31456791679374874
+layout_spectrum: 0.3902
+typography_spectrum: 0.11945
 cta:
   domain: null
   bucket: null
